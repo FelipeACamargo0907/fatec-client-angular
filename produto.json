@@ -1,0 +1,32 @@
+{
+    "produto" : [
+        {
+            "id" : 1,
+            "nome" : "Pipoca",
+            "quantidade_estoque" : "150",
+            "validade" : "06/24",
+            "valor_unit" : "2,75"
+        },
+        {
+            "id" : 2,
+            "nome" : "Coca Cola",
+            "quantidade_estoque" : "305",
+            "validade" : "05/24",
+            "valor_unit" : "2,50"
+        },
+        {
+            "id" : 3,
+            "nome" : "Salgadinho Dotiros",
+            "quantidade_estoque" : "556",
+            "validade" : "11/23",
+            "valor_unit" : "6,00"
+        },
+        {
+            "id" : 4,
+            "nome" : "Mangueira - J Size",
+            "quantidade_estoque" : "1",
+            "validade" : "Não Perecível",
+            "valor_unit" : "5000,00"
+        }
+    ]
+}
